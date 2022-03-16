@@ -1,11 +1,12 @@
 // .eslintrc
 {
-  "extends": ["eslint:recommended", "airbnb", "prettier"],
+  "extends": ["airbnb", "prettier"],
   "env": {
     "browser": true
   },
   "parser": "babel-eslint",
   "rules": {
+    "react/function-component-definition": "off",
     "no-plusplus": [0],
     "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
     "react/prop-types": [0],
