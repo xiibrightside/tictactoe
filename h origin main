@@ -1,0 +1,29 @@
+[33mcommit 5890d4e9c9fb6e8f1ff907affec6563b125461c4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: xoxo <thakursatyam48@gmail.com>
+Date:   Thu Mar 17 18:01:01 2022 +0530
+
+    winner calc, lift state
+
+[33mcommit 06019023e8ee6cb13069c1cd73e7455150180d35[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: xoxo <thakursatyam48@gmail.com>
+Date:   Thu Mar 17 17:30:29 2022 +0530
+
+    added state and events
+
+[33mcommit 40ca8458c325bcb1c2195fc74b0631bf11bb8a65[m
+Author: xoxo <thakursatyam48@gmail.com>
+Date:   Wed Mar 16 20:17:25 2022 +0530
+
+    added styles
+
+[33mcommit 12e3aaba2ad2e380ffd744bbfc23e70e952fbd13[m
+Author: xoxo <thakursatyam48@gmail.com>
+Date:   Wed Mar 16 19:54:48 2022 +0530
+
+    created board & square components
+
+[33mcommit 3ba280cc741cb7b3c024b88f2d8db877885f8d1e[m
+Author: xoxo <thakursatyam48@gmail.com>
+Date:   Wed Mar 16 14:48:38 2022 +0530
+
+    init commit
