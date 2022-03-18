@@ -1,4 +1,4 @@
-# Deployed at ( tictactoebynimrod.surge.sh )
+# Deployed at ( https://tictactoebynimrod.surge.sh/ )
 
 # Nano React App Default Javascript Template
 
